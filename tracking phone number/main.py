@@ -25,7 +25,7 @@ print(carrier.name_for_number(service_pro, "en"))
 
 #now go to https://opencagedata.com/dashboad to key API key copy and use it on the next line
 geocoder = OpenCageGeocode('past API key here')
-geocoder.geocode("South Gate, ZA") #to get the lng&lat of the city, country https://www.latlong.net/
+geocoder.geocode("South Gate, ZA") #to get the lng & lat of the city, country https://www.latlong.net/
 geocoder.reverse_geocode(25.330999, -33.898418) # then copy it on the next line
 
 results = geocoder.geocode('query') 
