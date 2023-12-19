@@ -40,3 +40,4 @@ myMap = folium.Map(locations=[lng, lat], zoom_start= 9)
 folium.Marker([lng, lat], popup=locations).add_to(myMap)
 
 myMap.save("mylocation.html")
+
