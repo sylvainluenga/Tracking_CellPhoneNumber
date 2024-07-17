@@ -4,7 +4,7 @@ From country name, Network /Service and location
  ### Architecture
 
 Before you start this project you will need an API key
-```sh
+```sh  
 for the API key go to : https://opencagedata.com/dashboad  create an account copy the key,
 then past it on line 27
 you will also need this site : to get the lng&lat of the city, country https://www.latlong.net/
