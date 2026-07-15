@@ -11,11 +11,11 @@ you will also need this site : to get the lng&lat of the city, country https://w
 then past it on line 29
 ```
 ```sh
-If you do download all the file just start yarn install
+If you do download all the files, just start yarn install
   Then use all the pip install
   But if you want to follow line by line all you need is to create a folder and have to file on it
    1. main.py
-    install all dependancied mention on #pip install
+    Install all dependencies mentioned on #pip install
     you will have to run it 3 times
     A. on line 20 print(locations) 
      just to make sure that you do not have any error to identify the correct country
